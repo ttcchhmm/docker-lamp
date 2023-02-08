@@ -24,12 +24,12 @@ The server will be serving files from the `./files` directory.
 - Docker
 - Docker Compose
 
-On Debian and derivatives (Ubuntu, Pop_OS, Linux Mint, etc) you can use :
+On Debian and derivatives (Ubuntu, Pop_OS, Linux Mint, etc) you can use this command to install the required software :
 ```bash
 sudo apt install docker.io docker-compose git
 ```
 
-On Arch Linux and derivatives (Manjaro, EndeavourOS, etc) you can use :
+On Arch Linux and derivatives (Manjaro, EndeavourOS, etc) you can use this command to install the required software :
 ```bash
 sudo pacman -S docker docker-compose git
 ```
